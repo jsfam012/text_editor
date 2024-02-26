@@ -32,9 +32,9 @@ module.exports = () => {
         // TODO: Create a manifest.json:
         fingerprints: false,
         inject: true,
-        name: 'Contact Cards',
-        short_name: 'Contact',
-        description: 'Never forget your contacts!',
+        name: 'Text Editor',
+        short_name: 'Text Editor',
+        description: 'Edits texts!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
